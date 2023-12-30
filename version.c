@@ -2,7 +2,7 @@
 #ifdef VERSION_STRING
 	#define VER     " "VERSION_STRING
 #else
-	#define VER     ""
+	#define VER     "1.1"
 #endif
 
 
